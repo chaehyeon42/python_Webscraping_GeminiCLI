@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-#environment 환경 변수
-#.env
+# Environment Variable
+.env
